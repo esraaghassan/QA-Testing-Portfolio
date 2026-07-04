@@ -1,0 +1,6 @@
+﻿Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Due date
+Bug,NBT-5,10175,Search: System fails to return relevant product results when using a mixed language query (English + Arabic),,,Esraa 7,712020:87bff432-7fd9-4e13-9db0-3b8c53bfa5c2,Medium,To Do,,7/3/2026 15:35,7/3/2026 16:10,
+Bug,NBT-4,10173,Search: System fails to return results for long specific product queries despite matching keywords existing,,,Esraa 7,712020:87bff432-7fd9-4e13-9db0-3b8c53bfa5c2,Medium,To Do,,7/3/2026 15:22,7/3/2026 16:10,
+Bug,NBT-3,10171,Checkout: Phone Number field accepts alphabetic characters and symbols without validation,,,Esraa 7,712020:87bff432-7fd9-4e13-9db0-3b8c53bfa5c2,Medium,To Do,,7/3/2026 15:06,7/3/2026 16:10,
+Bug,NBT-2,10169,Password Reset: System fails to trigger password recovery email when an account session is lost,,,Esraa 7,712020:87bff432-7fd9-4e13-9db0-3b8c53bfa5c2,High,To Do,,7/3/2026 15:03,7/3/2026 16:10,
+Bug,NBT-1,10167,Authentication: System intermittently fails to recognize valid registered user credentials during active sessions,,,Esraa 7,712020:87bff432-7fd9-4e13-9db0-3b8c53bfa5c2,High,To Do,,7/3/2026 14:58,7/3/2026 16:10,
