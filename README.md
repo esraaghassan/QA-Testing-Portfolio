@@ -1,36 +1,34 @@
 # QA-Testing-Portfolio
-Manual QA Testing Project for the NonCommerce Website including Test Scenarios, Test Cases, Bug Reports, and Final Test Report.
-# QA Testing Portfolio
 
-# Project Overview
+Manual QA Testing Project for the nopCommerce Website including Test Scenarios, Test Cases, Bug Reports, and Final Test Report.
 
-This project demonstrates manual QA testing activities performed on the NonCommerce website.
+## QA Testing Portfolio
 
-# Modules Tested
+### Project Overview
+This project demonstrates manual QA testing activities performed on the nopCommerce website.
 
+### Modules Tested
 * Authentication
-* Search
 * Products
-* Cart
+* Search
 * Filters & Sorting
+* Cart
+* Checkout
 
-# Deliverables
-
+### Deliverables
 * Test Scenarios
 * Test Cases
 * Bug Report
 * Final Test Report
 
-# Testing Type
-
+### Testing Type
 * Manual Testing
 
-# Test Execution Summary
+### Test Execution Summary
+* Total Test Cases: 40
+* Passed: 34
+* Failed: 5
+* N/A: 1
 
-* Total Test Cases: 27
-* Passed: 25
-* Failed: 2
-
-## Key Finding
-A critical authentication issue was identified affecting user login and password recovery after registration.
-
+### Key Finding
+Critical authentication, search, and checkout issues were identified affecting user experience and validation constraints.
